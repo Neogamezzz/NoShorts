@@ -8,4 +8,4 @@ In Adguard Mobile application:
 Settings - Filtering - Extensions - Add extension - Import from file or URL
 
 Link to script:
-`https://github.com/Neogamezzz/No-Shorts/raw/main/Script.js`
+`https://github.com/Neogamezzz/NoShorts/raw/main/Script.js`
